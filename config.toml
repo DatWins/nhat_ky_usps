@@ -30,4 +30,4 @@ title = "MY KDA diary of using STAR"
 [params]
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "This is a working journal of how I handled various situations in the workplace. The situations are true, but the names are different due to privacy."
+  homeText = "This is a working journal of how I handled various situations in the workplace and what I learned from the experiences."
