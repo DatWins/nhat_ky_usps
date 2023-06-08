@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "Hugo Blog"
+title = "MY KDA diary of using STAR"
 
 [taxonomies]
   tag = "tags"
@@ -30,4 +30,4 @@ title = "Hugo Blog"
 [params]
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
-  homeText = "You just made a Hugo blog from scratch."
+  homeText = "This is a working journal of how I handled various situations in the workplace. The situations are true, but the names are different due to privacy."
