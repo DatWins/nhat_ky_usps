@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "en-us"
-title = "MY KDA diary of using STAR"
+title = "A Working Diary"
 
 [taxonomies]
   tag = "tags"
