@@ -19,7 +19,7 @@ title = "MY KDA diary of using STAR"
   [[menu.main]]
     name = "Journal"
     pre = "edit"
-    url = "/journal/"
+    url = "/blog/"
     weight = 2
   [[menu.main]]
     name = "Tags"
