@@ -11,3 +11,5 @@ draft: false
 **144** 3 Digits mail become 5 digits, Reject go to 170 after pulldown
 
 **146** Mails go to APC under own zip code, Reject go to 170 as priority. Make sure to check periodically
+
+**Link takes about 20-30 minutes to process**
