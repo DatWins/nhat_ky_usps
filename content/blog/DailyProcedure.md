@@ -14,4 +14,9 @@ draft: false
   - [ ] Write down stafing
   - [ ] Check out 170
   - [ ] Chhhck out 170 Express
+  - [ ] At End of day, make sure you look at senority  list before assigning
+  - [ ] 2:30 is for ISC, 4:30 is for Santa Clarita
+  - [ ] Check in with MDO if wwee need to farmmout worrks
+  - [ ] 3:30 check out 170 Express
+        
   
