@@ -31,3 +31,9 @@ title = "A Working Diary"
   containerMaxWidth = "700px"
   dateFormat = "Jan 2, 2006"
   homeText = "This is a working journal of how I handled various situations in the workplace and what I learned from the experiences."
+
+[params]
+  containerMaxWidth = "1200px"
+  dateFormat = "Jan 2, 2006"
+  homeText = " "
+   homeText = "This is a working journal of how I handled various situations in the workplace and what I learned from the experiences."
