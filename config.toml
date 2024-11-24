@@ -18,7 +18,7 @@ title = "A Working Diary"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Journal"
+    name = "Blog"
     pre = "edit"
     url = "/blog/"
     weight = 2
