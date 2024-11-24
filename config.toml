@@ -6,7 +6,8 @@ title = "A Working Diary"
   tag = "tags"
 
 [permalinks]
-  blog = "/:filename/"
+  posts = "/blog/:title/"
+
 
 # See https://feathericons.com/
 # The value of pre is the icon name
