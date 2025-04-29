@@ -1,8 +1,7 @@
 ---
 title: Image Gallery Shortcode
-date: 2023-11-20
-tags: ["hugo","blog"]
-Description  : "In this post, we'll cover how to install Hugo and set up your first website with the Lightbi theme..."
+date: 2024-11-20
+tags: ["image"]
 draft: false
 ---
 
